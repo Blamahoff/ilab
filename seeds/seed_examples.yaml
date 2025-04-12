@@ -1,0 +1,19 @@
+- taxonomy: custom/child-welfare/safety-policy-v1
+  question: What is child welfare?
+  answer: Child welfare refers to services designed to ensure that children are safe and that families have the support they need.
+
+- taxonomy: custom/child-welfare/safety-policy-v1
+  question: How is child welfare related to foster care?
+  answer: Child welfare services play a crucial role in placing children in safe foster care homes when necessary.
+
+- taxonomy: custom/child-welfare/prevention
+  question: What services are available for child abuse prevention?
+  answer: Services include family support programs, counseling, and public awareness campaigns on child abuse.
+
+- taxonomy: custom/education/k12
+  question: How do child welfare services impact education?
+  answer: Child welfare services can support children’s educational success by addressing neglect, abuse, and emotional trauma.
+
+- taxonomy: custom/public-health/mental-health
+  question: What role does mental health play in child welfare?
+  answer: Mental health support is critical for both children and their families to ensure overall well-being and safety.

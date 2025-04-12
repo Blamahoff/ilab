@@ -1,0 +1,8 @@
+taxonomy:
+  social-services:
+    child-welfare:
+      description: "Information about child welfare services"
+      leaf: true
+      examples:
+        - question: "What is child welfare?"
+          answer: "Child welfare refers to services designed to ensure that children are safe and that families have the support they need."

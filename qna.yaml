@@ -1,0 +1,6 @@
+name: child-welfare-specialist
+description: Teaches a model about child welfare systems.
+license: apache-2.0
+model: mistral-7b-instruct-v0.2.Q4_K_M.gguf
+taxonomy_files:
+  - taxonomy/child-welfare.yaml
