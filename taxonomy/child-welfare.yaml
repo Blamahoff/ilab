@@ -1,3 +1,11 @@
+taxonomy: social-services/child-welfare
+description: Covers topics related to the welfare of children, including safety, family support, and child protection systems.
+leaf: true
+examples:
+  - question: What is child welfare?
+    answer: Child welfare refers to services designed to ensure that children are safe and that families have the support they need.
+  - question: What agencies are involved in child welfare?
+    answer: Agencies like Child Protective Services (CPS), foster care organizations, and family support services are involved in child welfare.
 taxonomy:
   social-services:
     child-welfare:
