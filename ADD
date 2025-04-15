@@ -1,0 +1,72 @@
+sdm_taxonomy:
+  knowledge_areas:
+    child_welfare_and_protection_fundamentals:
+      child_development_and_vulnerability:
+        description: "Understanding developmental milestones and vulnerability factors in child welfare."
+        prompts_and_responses:
+          - prompt: "Define 'child development and vulnerability' in the context of child welfare."
+            response: "'Child development and vulnerability' encompasses factors like developmental milestones, vulnerability due to age, trauma, and emotional signs. For example, young children aged 0-5 are more vulnerable to harm due to diminished mental or physical capacities."
+      types_of_harm_and_maltreatment:
+        description: "Recognizing different forms of harm and maltreatment."
+        prompts_and_responses:
+          - prompt: "What are the types of harm and maltreatment in child welfare?"
+            response: "Types of harm include physical abuse, sexual abuse and exploitation, neglect, and emotional maltreatment. Each poses unique risks to child safety."
+      legal_responsibilities:
+        description: "Understanding legal obligations and emergency response protocols."
+        prompts_and_responses:
+          - prompt: "What are the legal responsibilities of child welfare workers?"
+            response: "Legal responsibilities include mandated reporting, responding to emergencies to ensure safety, and adhering to protective custody laws when required."
+
+    sdm_framework_knowledge:
+      sdm_safety_assessment_purpose:
+        description: "Learning the purpose of SDM Safety Assessments."
+        prompts_and_responses:
+          - prompt: "Explain the purpose of SDM Safety Assessments."
+            response: "The SDM Safety Assessment helps identify threats to child safety and determine appropriate interventions. It guides decision-making, such as whether the child is safe, safe with a plan, or unsafe."
+      assessment_pathways:
+        description: "Exploring SDM assessment pathways."
+        prompts_and_responses:
+          - prompt: "What are the SDM assessment pathways?"
+            response: "SDM assessment pathways include initial assessment conducted at the beginning of a case, review/update for reassessing interventions, and referral closing completed at the conclusion of a case."
+      decision_rules:
+        description: "Understanding the rules for safety decisions."
+        prompts_and_responses:
+          - prompt: "Describe the safety decision rules in SDM."
+            response: "Decision rules include safe (no immediate risks), safe with a plan (risks mitigated by a safety plan), and unsafe (requiring placement interventions)."
+
+    cultural_and_legal_context:
+      icwa_application:
+        description: "Applying ICWA in child welfare cases."
+        prompts_and_responses:
+          - prompt: "How is ICWA applied in safety planning?"
+            response: "ICWA ensures that child welfare cases involving Indian children prioritize tribal involvement. Key aspects include determining Indian child status, notifying the tribe, and developing tribal-specific safety plans."
+      cultural_competence:
+        description: "Enhancing cultural competence in child welfare."
+        prompts_and_responses:
+          - prompt: "How can cultural competence be enhanced in child welfare?"
+            response: "Cultural competence involves awareness of personal biases to avoid prejudice and integrating culturally relevant supports like community elders or spiritual advisors."
+
+  core_skills:
+    assessment_and_analysis:
+      description: "Skills for assessing dangers and analyzing caregiver behaviors."
+      prompts_and_responses:
+        - prompt: "What skills are essential for identifying present danger?"
+          response: "Essential skills include recognizing immediate threats, such as visible injuries or environmental hazards, and evaluating caregiver capacity to address them."
+        - prompt: "How can caregiver behavior severity be assessed?"
+          response: "Severity can be assessed by analyzing the caregiver's actions, such as threats, neglect, or physical harm, and their impact on the child's safety."
+
+    family_and_community_engagement:
+      description: "Engaging families and communities to enhance child safety planning."
+      prompts_and_responses:
+        - prompt: "How can family engagement enhance child safety planning?"
+          response: "Family engagement builds trust, gathers vital information, and involves support networks. For example, including grandparents in safety planning can provide stability for the child."
+        - prompt: "What role do tribes play in SDM processes?"
+          response: "Tribes collaborate in developing culturally relevant safety plans, ensuring that interventions respect traditions and customs, especially for ICWA cases."
+
+    documentation_and_compliance:
+      description: "Documenting cases and ensuring compliance with policies."
+      prompts_and_responses:
+        - prompt: "Why is clear case documentation critical in SDM?"
+          response: "Clear documentation provides transparency, ensures decisions are well-justified, and aligns with policy and procedure requirements."
+        - prompt: "How can decisions be justified effectively?"
+          response: "Justifications must be based on evidence, such as observable safety threats or protective factors, and adhere to legal and procedural guidelines."
