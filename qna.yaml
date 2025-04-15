@@ -1,6 +1,17 @@
-name: child-welfare-specialist
-description: Teaches a model about child welfare systems.
-license: apache-2.0
-model: mistral-7b-instruct-v0.2.Q4_K_M.gguf
-taxonomy_files:
-  - taxonomy/child-welfare.yaml
+Created_by: Bierhoff
+domain: social_services
+seed examples:
+- question: What is child welfare?
+  answer: Child welfare refers to services designed to ensure that children are safe and that families have the support they need.
+
+- question: How is child welfare related to foster care?
+  answer: Child welfare services play a crucial role in placing children in safe foster care homes when necessary.
+
+- question: What services are available for child abuse prevention?
+  answer: Services include family support programs, counseling, and public awareness campaigns on child abuse.
+
+- question: How do child welfare services impact education?
+  answer: Child welfare services can support children’s educational success by addressing neglect, abuse, and emotional trauma.
+
+- question: What role does mental health play in child welfare?
+  answer: Mental health support is critical for both children and their families to ensure overall well-being and safety.
