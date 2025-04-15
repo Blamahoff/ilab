@@ -1,28 +1,29 @@
-- taxonomy: custom/child-welfare/safety-policy-v1
-  question: What is child welfare?
-  answer: Child welfare refers to services designed to ensure that children are safe and that families have the support they need.
+'-taxonomy': custom/child-welfare/safety-policy-v1
+task_description: Details on Safety Assessment and Structural Decision making in child welfare
+documents:
+  - repo: 'https://github.com/Blamahoff/ilab.git'
+    commit: c4c61bf10d26335eb568fb53cf47cea2c115381f
+  - repo: 'https://github.com/Blamahoff/ilab.git'
+    commit: fc4a82af15cb0da1f26ea4cac5b2f930c2628f53
+prompts_and_responses:
+  - question: What is child welfare?
+    answer: >-
+      Child welfare refers to services designed to ensure that children are safe
+      and that families have the support they need.
+  - question: How is child welfare related to foster care?
+    answer: >-
+      Child welfare services play a crucial role in placing children in safe
+      foster care homes when necessary.
+  - question: What services are available for child abuse prevention?
+    answer: >-
+      Services include family support programs, counseling, and public awareness
+      campaigns on child abuse.
+  - question: How do child welfare services impact education?
+    answer: >-
+      Child welfare services can support children’s educational success by
+      addressing neglect, abuse, and emotional trauma.
+  - question: What role does mental health play in child welfare?
+    answer: >-
+      Mental health support is critical for both children and their families to
+      ensure overall well-being and safety.
 
-- taxonomy: custom/child-welfare/safety-policy-v1
-  question: How is child welfare related to foster care?
-  answer: Child welfare services play a crucial role in placing children in safe foster care homes when necessary.
-
-- taxonomy: custom/child-welfare/prevention
-  question: What services are available for child abuse prevention?
-  answer: Services include family support programs, counseling, and public awareness campaigns on child abuse.
-
-- taxonomy: custom/education/k12
-  question: How do child welfare services impact education?
-  answer: Child welfare services can support children’s educational success by addressing neglect, abuse, and emotional trauma.
-
-- taxonomy: custom/public-health/mental-health
-  question: What role does mental health play in child welfare?
-  answer: Mental health support is critical for both children and their families to ensure overall well-being and safety.
-
-task description: 'Details on Safety Assessment and Structural  Decision making in child welfare'
-documens:
-      repo: https://github.com/Blamahoff/ilab.git
-      commit: c4c61bf10d26335eb568fb53cf47cea2c115381f
-      repo: https://github.com/Blamahoff/ilab.git
-      commit: fc4a82af15cb0da1f26ea4cac5b2f930c2628f53
-      Patterns:
-      "qna.yaml" 25L 1448B
