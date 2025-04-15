@@ -17,3 +17,12 @@
 - taxonomy: custom/public-health/mental-health
   question: What role does mental health play in child welfare?
   answer: Mental health support is critical for both children and their families to ensure overall well-being and safety.
+
+task description: 'Details on Safety Assessment and Structural  Decision making in child welfare'
+documens:
+      repo: https://github.com/Blamahoff/ilab.git
+      commit: c4c61bf10d26335eb568fb53cf47cea2c115381f
+      repo: https://github.com/Blamahoff/ilab.git
+      commit: fc4a82af15cb0da1f26ea4cac5b2f930c2628f53
+      Patterns:
+      "qna.yaml" 25L 1448B
