@@ -1,3 +1,24 @@
+Structured Decision Making (SDM) System:
+The SDM System is a collection of evidence-informed tools designed to support child welfare professionals at key points throughout a child abuse or neglect case. Rather than making decisions for social workers, SDM offers a structured way to gather and interpret information, encouraging critical thinking to improve decision-making quality.
+SDM relies on standardized definitions to ensure fairness, accuracy, and consistency. Social workers are urged to read each definition fully and carefully, whether through WebSDM’s question mark icons, the Evident Change SDM manual, or via mobile access at https://ca.sdmdata.org/definitions.
+Key practice reminders include:
+Always refer to item definitions to match family information appropriately.
+Pay attention to the logical connectors ("and," "or," "and/or") in definitions.
+Provided examples are illustrative, not exhaustive.
+Don’t confuse “unasked” questions with “unknown” answers.
+Use sound judgment—when uncertain, seek input from peers or supervisors.
+SDM tools serve as guides, not replacements, for sound practice. They should be used alongside the Integrated Core Practice Model (ICPM), which outlines the values and behaviors guiding quality social work practice.
+Hotline Tools – Purpose and Use
+The Hotline Tools are designed to help determine whether a child welfare referral meets the legal criteria for an in-person CPS investigation. If the threshold is met, the tools also guide how urgently a social worker should respond—such as immediately or within five days. For referrals that don’t warrant a CPS investigation, the tools assist screeners in deciding if a referral to community-based services is a more suitable response.
+Safety Assessment – Purpose and Practice
+The Safety Assessment is used to evaluate whether a child is currently at risk of immediate and serious harm and to identify what protective actions are necessary. It helps workers determine if the child is Safe, Unsafe, or Safe With Plan. When "Safe With Plan" is the outcome, a formal Safety Plan must be created.
+During investigations, social workers are encouraged to structure their interviews using the SDM Safety Assessment framework. This approach supports consistent, accurate, and timely evaluations of child safety.
+Risk Assessment – Purpose and Use
+The SDM Risk Assessment is a research-based tool that helps identify families more likely to experience future child welfare involvement within 18 to 24 months. It supports decision-making on whether ongoing intervention is needed by evaluating current circumstances and past history. Though it doesn't predict future maltreatment directly, it assesses the likelihood of recurrence in the absence of agency involvement.
+The tool categorizes risk into Low, Moderate, High, or Very High, with clear differences in recurrence rates. Families identified as High Risk are statistically more likely to have future referrals or substantiated reports than those assessed as Low Risk.
+Reunification Reassessment – Purpose and Use
+The Reunification Reassessment helps determine whether children in out-of-home care with a reunification goal should return home, remain in placement with continued services, or shift to a different permanency plan. This SDM tool guides staff in evaluating a family’s progress on case plan goals and comparing current conditions to earlier safety and risk levels. Research shows that following the tool's recommendations reduces the likelihood of future harm and reentry into care.
+
 GENERAL INSTRUCTIONS FOR
 SDM ASSESSMENTS
 
