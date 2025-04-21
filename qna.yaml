@@ -56,7 +56,6 @@ seed_examples:
         answer: |
           It evaluates current threats to a child’s safety, caregiver protective 
           capacity, and the need for immediate intervention or a safety plan.
-
   - context: |
       The Risk Assessment is an actuarial tool used by child welfare investigators
       to estimate the likelihood of future involvement with the child welfare system. 
@@ -71,7 +70,6 @@ seed_examples:
           The risk assessment estimates the likelihood of future child welfare 
           involvement to help determine whether a case should continue for services 
           or be closed.
-
       - question: |
            When is the risk assessment used?
         answer: |
@@ -82,7 +80,6 @@ seed_examples:
         answer: |
           It provides an objective estimate of future risk, helping ensure that high-risk 
           families receive continued services while low-risk cases may be safely closed.
-
   - context: |
       The Family Strengths and Needs Assessment (FSNA) informs case planning by helping 
       child welfare workers systematically assess the strengths and needs of family 
