@@ -1,180 +1,197 @@
-created_by: Bierhoff
+ccreated_by: Bierhoff
 version: 3
 domain: child_safety
 seed_examples:
   - context: |
-      Intake assessment is a critical decision point in child welfare service.
-      It consists of two main sections: screening and response priority. The     
-      screening section helps child abuse hotline workers determine whether
-      the current report meets criteria for a child protective services (CPS) 
-      investigation. This includes evaluating the alleged abuse or neglect, the 
-      vulnerability of the child, and the caregiver's capacity. The response 
-      priority section guides workers in determining how urgently an accepted 
-      report must be investigated, based on the level of immediate danger and 
-      risk to the child.
+      Intake assessment is a critical decision point in child welfare
+      service. It consists of two main sections: screening and response
+      priority. The screening section helps child abuse hotline workers
+      determine whether the current report meets criteria for a child
+      protective services (CPS) investigation. This includes evaluating the
+      alleged abuse or neglect, the vulnerability of the child, and the
+      caregiver's capacity. The response priority section guides workers in
+      determining how urgently an accepted report must be investigated,
+      based on the level of immediate danger and risk to the child.
     questions_and_answers:
       - question: |
-          What is the purpose of the screening section in the intake assessment?
+          What is the purpose of the screening section in the intake
+          assessment?
         answer: |
-          The screening section helps hotline workers determine whether a report 
-          meets the criteria for a CPS investigation by evaluating the nature of 
-          the allegations, child vulnerability, and caregiver capability.
+          The screening section helps hotline workers determine whether a
+          report meets the criteria for a CPS investigation by evaluating the
+          nature of the allegations, child vulnerability, and caregiver
+          capability.
       - question: |
-          What does the response priority section determine in intake assessment?
+          What does the response priority section determine in intake
+          assessment?
         answer: |
-          The response priority section determines how quickly a CPS investigation 
-          must begin, based on the urgency and risk of harm to the child. 
+          The response priority section determines how quickly a CPS
+          investigation must begin, based on the urgency and risk of harm to
+          the child.
       - question: |
           What factors are considered when screening a child abuse report?
         answer: |
-          Factors include the type and severity of alleged abuse or neglect, 
-          the age and vulnerability of the child, and the caregiver's ability to 
-          protect the child.
+          Factors include the type and severity of alleged abuse or neglect,
+          the age and vulnerability of the child, and the caregiver's ability
+          to protect the child.
       - question: |
           When is a report assigned a high response priority?
         answer: |
-          A report is assigned a high response priority when there is an immediate 
-          or severe risk to the child's safety or well-being that requires urgent 
-          investigation.
+          A report is assigned a high response priority when there is an
+          immediate or severe risk to the child's safety or well-being that
+          requires urgent investigation.
       - question: |
           Why is the intake assessment important in child welfare?
         answer: |
-          It ensures that serious cases of abuse or neglect are identified quickly and
-          receive an appropriate and timely CPS response to protect children.   
+          It ensures that serious cases of abuse or neglect are identified
+          quickly and receive an appropriate and timely CPS response to
+          protect children.
   - context: |
-      The Safety Assessment is used throughout a child welfare case to help  
-      worker determine whether a child can safely remain in the home. 
-      It evaluates present danger, caregiver protective capacities, and the need 
-      for a safety plan. The tool also includes a secondary version tailored for 
-      children placed in foster or substitute care, ensuring consistent safety 
-      decisions across various settings. The safety assessment is critical in 
-      identifying immediate threats to a child’s well-being and determining if 
-      protective actions or removals are necessary.
+      The Safety Assessment is used throughout a child welfare case to help
+      workers determine whether a child can safely remain in the home. It
+      evaluates present danger, caregiver protective capacities, and the need
+      for a safety plan. The tool also includes a secondary version tailored
+      for children placed in foster or substitute care, ensuring consistent
+      safety decisions across various settings. The safety assessment is
+      critical in identifying immediate threats to a child’s well-being and
+      determining if protective actions or removals are necessary.
     questions_and_answers:
-     - question: |
+      - question: |
           What is the purpose of the safety assessment in child welfare?
         answer: |
-          The safety assessment helps determine if a child can safely remain in the 
-          home and whether a safety plan is needed to manage any threats.
+          The safety assessment helps determine if a child can safely remain
+          in the home and whether a safety plan is needed to manage any
+          threats.
       - question: |
           When is a safety assessment used in a case?
         answer: |
-          It is used at various points in a child welfare case to evaluate safety 
-          throughout the life of the case, not just at intake.
+          It is used at various points in a child welfare case to evaluate
+          safety throughout the life of the case, not just at intake.
       - question: |
           What does the safety assessment evaluate?
         answer: |
-          It evaluates current threats to a child’s safety, caregiver protective 
-          capacity, and the need for immediate intervention or a safety plan.
+          It evaluates current threats to a child’s safety, caregiver
+          protective capacity, and the need for immediate intervention or a
+          safety plan.
       - question: |
-           Can a child remain in the home with safety concerns present?
+          Can a child remain in the home with safety concerns present?
         answer: |
-          Yes, if a protective safety plan can be implemented and the caregivers are 
-          willing and able to follow it.
+          Yes, if a protective safety plan can be implemented and the
+          caregivers are willing and able to follow it.
       - question: |
-           Is there a different safety assessment for children in foster care?
+          Is there a different safety assessment for children in foster care?
         answer: |
-          Yes, a version of the safety assessment has been developed specifically for use 
-          in foster and substitute care settings.
+          Yes, a version of the safety assessment has been developed
+          specifically for use in foster and substitute care settings.
   - context: |
-      The Risk Assessment is an actuarial tool used by child welfare investigators
-      to estimate the likelihood of future involvement with the child welfare system. 
-      It guides decision-making on whether a case should be closed or continued for 
-      ongoing services. By examining family history, current circumstances, and known 
-      risk factors, the tool supports consistent and evidence-based decisions about 
-      child safety and service needs.
+      The Risk Assessment is an actuarial tool used by child welfare
+      investigators to estimate the likelihood of future involvement with the
+      child welfare system. It guides decision-making on whether a case
+      should be closed or continued for ongoing services. By examining family
+      history, current circumstances, and known risk factors, the tool
+      supports consistent and evidence-based decisions about child safety and
+      service needs.
     questions_and_answers:
       - question: |
-           What is the purpose of the risk assessment in child welfare?
+          What is the purpose of the risk assessment in child welfare?
         answer: |
-          The risk assessment estimates the likelihood of future child welfare 
-          involvement to help determine whether a case should continue for services 
-          or be closed.
+          The risk assessment estimates the likelihood of future child
+          welfare involvement to help determine whether a case should
+          continue for services or be closed.
       - question: |
-           When is the risk assessment used?
+          When is the risk assessment used?
         answer: |
-          It is typically used at the conclusion of an investigation to guide case 
-          disposition decisions.
+          It is typically used at the conclusion of an investigation to guide
+          case disposition decisions.
       - question: |
-           How does the risk assessment support child welfare decisions?
+          How does the risk assessment support child welfare decisions?
         answer: |
-          It provides an objective estimate of future risk, helping ensure that high-risk 
-          families receive continued services while low-risk cases may be safely closed.
+          It provides an objective estimate of future risk, helping ensure
+          that high-risk families receive continued services while low-risk
+          cases may be safely closed.
       - question: |
-           What factors are considered in a risk assessment?
+          What factors are considered in a risk assessment?
         answer: |
-          The assessment includes factors such as prior reports, caregiver characteristics, 
-          family stressors, and current incident details.
+          The assessment includes factors such as prior reports, caregiver
+          characteristics, family stressors, and current incident details.
       - question: |
-           How is the risk assessment different from a safety assessment?
+          How is the risk assessment different from a safety assessment?
         answer: |
-          A safety assessment focuses on immediate threats to a child’s well-being, while a 
-          risk assessment predicts the likelihood of future harm or system involvement.
+          A safety assessment focuses on immediate threats to a child’s
+          well-being, while a risk assessment estimates the likelihood of
+          future involvement with the system.
   - context: |
-      The Family Strengths and Needs Assessment (FSNA) informs case planning by helping 
-      child welfare workers systematically assess the strengths and needs of family 
-      caregivers and all children. It uses a standardized set of family functioning domains 
-      to guide the evaluation process. This structured approach supports the identification 
-      of priority areas that should be addressed in the case plan to enhance family functioning 
-      and promote child safety.
+      The Family Strengths and Needs Assessment (FSNA) is an evaluative tool
+      used to assess the family’s strengths, challenges, and overall
+      functioning. It helps social workers identify areas that need
+      improvement and the resources that can be mobilized to address family
+      challenges. The FSNA includes areas like family dynamics, mental
+      health, substance abuse, and economic stability. It is used to inform
+      case plans and prioritize interventions to improve family functioning
+      and well-being.
     questions_and_answers:
       - question: |
-          What is the purpose of the Family Strengths and Needs Assessment (FSNA)?
+          What is the purpose of the Family Strengths and Needs Assessment?
         answer: |
-          The FSNA supports case planning by identifying key strengths and priority needs within 
-          a family, guiding interventions to improve functioning and safety.
-      - question: | 
-           Who is assessed in the FSNA?
-        answer: |
-           The assessment includes all family caregivers and children involved in the case.
+          The FSNA helps identify the strengths and challenges within a
+          family to inform case planning and prioritize necessary
+          interventions.
       - question: |
-          How does the FSNA support case planning?
+          When is the Family Strengths and Needs Assessment used?
         answer: |
-          It structures the evaluation of family functioning and helps prioritize areas to target 
-          in the case plan to improve child safety and family stability.
-      - question: | 
-           What domains are typically included in the FSNA?
-        answer: |
-          Common domains include parenting practices, mental health, substance use, housing stability, 
-          relationships, and child well-being.
+          It is used throughout the case to monitor the family’s progress and
+          adjust interventions accordingly.
       - question: |
-          Is the FSNA used only at the beginning of a case?
+          What does the FSNA evaluate?
         answer: |
-          No, it can be used at multiple points throughout the life of a case to reassess progress and 
-          adjust the case plan as needed.
+          It evaluates family dynamics, mental health, substance abuse,
+          economic stability, and other factors that impact family
+          functioning.
+      - question: |
+          Why is the FSNA important in child welfare cases?
+        answer: |
+          It helps develop targeted interventions that build on family
+          strengths while addressing challenges that may affect the child's
+          safety or well-being.
   - context: |
-      The Reunification Assessment is designed for families whose children are in out-of-home care 
-      with a goal of reunification. This structured tool assists child welfare workers in determining 
-      whether a child can safely return home or whether a change in the permanency goal should be 
-      considered. The assessment includes three key sections: evaluation of current risk, caregiver-child 
-      visitation quality, and an updated safety determination.
+      The Reunification Assessment is designed for families whose children
+      are in out-of-home care with a goal of reunification. This structured
+      tool assists child welfare workers in determining whether a child can
+      safely return home or whether a change in the permanency goal should be
+      considered. The assessment includes three key sections: evaluation of
+      current risk, caregiver-child visitation quality, and an updated safety
+      determination.
     questions_and_answers:
       - question: |
           What is the purpose of the Reunification Assessment?
         answer: |
-          It helps child welfare workers decide whether a child in out-of-home care can safely return home 
-          or if a new permanency plan should be explored.
-      - question: | 
-           What are the three sections of the Reunification Assessment?
+          It helps child welfare workers decide whether a child in out-of-
+          home care can safely return home or if a new permanency plan should
+          be explored.
+      - question: |
+          What are the three sections of the Reunification Assessment?
         answer: |
-          The assessment includes risk evaluation, caregiver-child visitation assessment, and a current 
-          safety assessment.
+          The assessment includes risk evaluation, caregiver-child visitation
+          assessment, and a current safety assessment.
       - question: |
           When is the Reunification Assessment used?
         answer: |
-          It is used during the case planning process for children in out-of-home care when the goal is reunification.
-       - question: |
+          It is used during the case planning process for children in out-of-
+          home care when the goal is reunification.
+      - question: |
           How does the assessment support safe reunification?
         answer: |
-          By systematically reviewing safety, risk, and relationship quality, the tool ensures that all factors are considered 
-          before returning a child home.
+          By systematically reviewing safety, risk, and relationship quality,
+          the tool ensures that all factors are considered before returning a
+          child home.
       - question: |
           What happens if the assessment suggests reunification is not safe?
         answer: |
-          Workers may recommend a change in permanency goal, such as adoption or guardianship.
+          Workers may recommend a change in permanency goal, such as adoption
+          or guardianship.
 document_outline: |
-  Information about child safety assessments, risk assessment, safety assessment, worker decision
-  and case planning.
+  Information about child safety assessments, risk assessment, safety
+  assessment, worker decision and case planning.
 document:
   repo: https://github.com/Blamahoff/ilab
   commit: 113b7fbc4936c9995e18aab2b62eaa063a441b56
